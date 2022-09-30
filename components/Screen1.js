@@ -44,6 +44,62 @@ const products = [
     shop: "Minh Long Book",
     img: require("../assets/hieu_long_con_tre.png"),
   },
+  {
+    id: 6,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 7,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 8,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 9,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 10,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 11,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 12,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
+  {
+    id: 13,
+
+    name: "Hiểu lòng con trẻ",
+    shop: "Minh Long Book",
+    img: require("../assets/hieu_long_con_tre.png"),
+  },
 ];
 
 export default function Screen1() {
@@ -155,5 +211,4 @@ const styles = StyleSheet.create({
     paddingVertical: 10,
     paddingHorizontal: 20,
   },
-
 });
